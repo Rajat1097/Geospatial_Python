@@ -11,4 +11,4 @@ Aplha, beta and Gamma correction
 data used is avalilable in data folder
 
 ## Vector data handling
-# how to open vector data, access the attributes, metadata and plotting the data with basemap. 
+how to open vector data, access the attributes, metadata and plotting the data with basemap. 
