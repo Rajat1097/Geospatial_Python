@@ -1,5 +1,5 @@
 # Geospatial_Python
-Python for handling geospatial data
+Python for geospatial data
 
 ## Vector data handling
 How to read vector data, access the attributes, metadata and plotting the data with basemap. 
