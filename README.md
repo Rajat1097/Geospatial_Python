@@ -7,7 +7,7 @@ How to read vector data, access the attributes, metadata and plotting the data w
 ## Raster data handling
 How to read raster data, acces the metadata and plot true and false colour composite
 
-## True and False colour composite
+## Image Processing for visualization
 Creating RGB composite, True Colour and False colour image
 Aplha, beta and Gamma correction
 data used is avalilable in data folder
