@@ -2,18 +2,20 @@
 Python for geospatial data
 
 ## Vector data handling
-How to read vector data, access the attributes, metadata and plotting the data with basemap. 
+How to read vector data, access the attributes, metadata and plotting the data with basemap.
+data used is avalilable in data folder.
 
 ## Raster data handling
-How to read raster data, acces the metadata and plot true and false colour composite
+How to read raster data, acces the metadata and plot true and false colour composite.
 
 ## Image Processing for visualization
-Creating RGB composite, True Colour and False colour image
-Aplha, beta and Gamma correction
-data used is avalilable in data folder
+Creating RGB composite, True Colour and False colour image, 
+Aplha, beta and Gamma correction.
+Data used can be created using data from Sentinel_2 folder. Creat Band composite of B2, B3, B4 and B8
+
 
 ## Indices.ipynb
-Calculation of NDVI, SAVI, NDWI indices using Sentinel 2 data
+Calculation of NDVI, SAVI, NDWI indices using Sentinel 2 data, 
 data used is avalilable in data folder
 
 
