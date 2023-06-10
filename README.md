@@ -18,6 +18,10 @@ Data used can be created using data from Sentinel_2 folder. Creat Band composite
 Calculation of NDVI, SAVI, NDWI indices using Sentinel 2 data, 
 data used is avalilable in data folder
 
+## Clip Vector Rastor
+Clip vector data using shapefile - Single and Batch
+Clip raster data using shapefile single and Batch
+
 
 
 
